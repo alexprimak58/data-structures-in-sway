@@ -48,6 +48,6 @@ assert(myFirstTuple.2);
 // Arrays
 // can store one data type
 let mut myFirstArray = [1,2,3,4,5];
-x[0]=5;
-x[4]=1;
+myFirstArray[0]=5;
+myFirstArray[4]=1;
 // [5,2,3,4,1]
